@@ -1,6 +1,6 @@
 title:            坑
 description:      Academic homepage of Yimin
-url:              https://gaz3ll3.github.io
+url:              https://lowrank.github.io
 signoff:          Yimin
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
@@ -17,7 +17,7 @@ links:
   - name:         存档
     url:          /arXiv
   - name:         邮件
-    url:          mailto:yzhong@math.utexas.edu
+    url:          mailto:yzhong@utexas.edu
     external:     true
 
 highlighter:      pygments
