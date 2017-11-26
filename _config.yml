@@ -1,0 +1,29 @@
+title:            坑
+description:      Academic homepage of Yimin
+url:              https://gaz3ll3.github.io
+signoff:          Yimin
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted."
+
+links:
+  - name:         首页
+    url:          /
+  - name:         关于
+    url:          /about
+    external:     false
+  - name:         博客
+    url:          /blog
+  - name:         存档
+    url:          /arXiv
+  - name:         邮件
+    url:          mailto:yzhong@math.utexas.edu
+    external:     true
+
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+    extensions: ["no_intra_emphasis", "fenced_code_blocks","autolink","tables","with_toc_data"]
+kramdown:
+  input: GFM
