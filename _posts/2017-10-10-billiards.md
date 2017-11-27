@@ -4,7 +4,7 @@ disqus: 'y'
 title: Billiards
 ---
 
-It is an old topic and until today I finally implemented it. On a heterogeneous 2D disk, we consider geodesics in phase space according to Hamiltonian as $H = c^2 |\xi|^2$, which depicts the movement of a point billiard traveling inside the disk, $H$ can be seen as some mountains for potential.
+It is an old topic and until today I finally implemented it. On a heterogeneous 2D disk, we consider geodesics in phase space according to Hamiltonian as $H = c^2 |\xi|^2$ , which depicts the movement of a point billiard traveling inside the disk, $H$ can be seen as some mountains for potential.
 
 To fully recover the information of speed $c(x)$, we will need the scatter relation $(X_s, X_r, t_{sr})$, which is a tuple of input phase coordinate, output phase coordinate and traveltime. In theory, $X_s$ and $X_r$ do not need to be located on the boundary, but in practice, we set sources are equi-spaced located on circle, with equi-spaced angles of input, and we record traveltime and output location, angle on the boundary.
 
