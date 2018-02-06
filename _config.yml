@@ -21,7 +21,7 @@ links:
     url:          mailto:yzhong@utexas.edu
     external:     true
 
-highlighter:      pygments
+highlighter:      rouge
 permalink:        pretty
 kramdown:
   input: GFM
