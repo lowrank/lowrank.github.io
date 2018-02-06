@@ -1,11 +1,7 @@
 ---
 layout: post
-title: 新的开始
-disqus: y
+disqus: 'y'
+title: An End and A New Start
 ---
 
-之前的主页即将要被学校关闭，所有的东西都只好先转移到这里。以前写的都是英文的博客，反正也没人愿意看，索性换成中文。
-
-把之前写的东西都扔在了旧的帐号里了，这里只写一些新的东西。本来想多写写应用数学的，貌似也没人愿意看，我又没那么喜欢现在所谓的大数据，好像就没什么好写的了。
-
-挖了一个坑， 尽量不把自己埋了。
+The site is shuting down due to my graduation. It has been to https://lowrank.github.io .
