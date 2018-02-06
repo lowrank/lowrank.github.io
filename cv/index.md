@@ -2,6 +2,6 @@
 layout: page
 title: Curriculum Vitae
 ---
-- The curriculum vitae can be retrieved [here](/users/yzhong/_static/CV.pdf).
+- The curriculum vitae can be retrieved [here](/static/CV.pdf).
 
-- The research statement can be retrieved [here](/users/yzhong/_static/RS.pdf)
+- The research statement can be retrieved [here](/static/RS.pdf)
