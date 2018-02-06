@@ -31,7 +31,7 @@ title: Research
   - April 10, 2017
       - UCI applied math seminar, A fast preconditioner for RTE@UCI
   - Feb 27, 2017 - March, 3, 2017
-      - SIAM CSE17, An FMM preconditioner for radiative transport equation@Atlanta[.pdf](/users/yzhong/_static/radfmm.pdf)
+      - SIAM CSE17, An FMM preconditioner for radiative transport equation@Atlanta[.pdf](/_static/radfmm.pdf)
       - SIAM CSE17, Inverse transport problems in quantitative PAT for molecular@Atlanta
   - Jan 30, 2017 - Feb 3, 2017
       - IPAM, Big Data Meets Computation@UCLA
@@ -41,11 +41,11 @@ title: Research
   - Sept. 30, 2016
       - Numerical Seminar, Fast multipole method for frequency-dependent radiative transfer equation (RTE)@Austin
   - May 23, 2016
-      - SIAM IS16, Inverse transport problems in quantitative PAT for molecular imaging@Albuquerque[.pdf](/users/yzhong/_static/is16.pdf)
+      - SIAM IS16, Inverse transport problems in quantitative PAT for molecular imaging@Albuquerque[.pdf](/_static/is16.pdf)
   - April 15, 2016
-      - One step reconstruction of wave speed and optical properties in PAT@Austin [.pdf](/users/yzhong/_static/qpat_rec_both.pdf)
+      - One step reconstruction of wave speed and optical properties in PAT@Austin [.pdf](/_static/qpat_rec_both.pdf)
   - Feb 19, 2016
-      - Existence and stability estimate of $H_p^1$ solution of radiative transport system@Austin[.pdf](/users/yzhong/_static/radiative_sys.pdf)
+      - Existence and stability estimate of $H_p^1$ solution of radiative transport system@Austin[.pdf](/_static/radiative_sys.pdf)
 - 2015 - 2016
   - Dec 22, 2015 - Dec 23, 2015
       - Inverse transport problems in quantitative PAT for molecular imaging@Hefei
@@ -61,18 +61,18 @@ title: Research
 	- July 29, 2013 - August 09, 2013
 		- MSRI, Summer Grad School, Introduction to the Mathematics of Seismic Imaging@Berkeley
 	- April 13, 2013
-		- Numerical Seminar, Notes on degenerate case in 2D: Solvability of degenerate elliptic problem in 2D@Austin[.pdf](/users/yzhong/_static/degenerate2D.pdf)
+		- Numerical Seminar, Notes on degenerate case in 2D: Solvability of degenerate elliptic problem in 2D@Austin[.pdf](/_static/degenerate2D.pdf)
 	- March 16, 2013
-		- Numerical Seminar, Some Notes on inverse problem: Stability of inverse source problem@Austin[.pdf](/users/yzhong/_static/IP_Point_Source.pdf)
+		- Numerical Seminar, Some Notes on inverse problem: Stability of inverse source problem@Austin[.pdf](/_static/IP_Point_Source.pdf)
 	- Feburary 22, 2013
-		- Webinar, Applied Math Webinar at Schlumberger, Houston, Recovering Point Sources in Unknown Environment with Differential Data@Houston[.pdf](/users/yzhong/_static/Recover_Point_Source_From_Unknown_Environment.pdf)
+		- Webinar, Applied Math Webinar at Schlumberger, Houston, Recovering Point Sources in Unknown Environment with Differential Data@Houston[.pdf](/_static/Recover_Point_Source_From_Unknown_Environment.pdf)
 
 - 2012 - 2013
 	- October 1st, 2012
 		- Workshop, Inverse Problem Workshop at TAMU@College Station
 	- April 6, 2012
-		- Sophex Seminar, Log concavity and fundamental gap theorem@Austin[.pdf](/users/yzhong/_static/Sophex_Ben_Andrews.pdf)
+		- Sophex Seminar, Log concavity and fundamental gap theorem@Austin[.pdf](/_static/Sophex_Ben_Andrews.pdf)
 
 - 2011 - 2012
 	- September 30, 2011
-		- Sophex Seminar, Cheng-Yau Gradient Estimate@Austin[.pdf](/users/yzhong/_static/Sophex_Cheng_Yau.pdf)
+		- Sophex Seminar, Cheng-Yau Gradient Estimate@Austin[.pdf](/_static/Sophex_Cheng_Yau.pdf)
