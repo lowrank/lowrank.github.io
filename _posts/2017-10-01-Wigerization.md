@@ -6,7 +6,7 @@ title: Wignerization
 
 Though it is tedious, I would think some notes on Wigner transform is necessary to some beginner like me. All notes are based on H.T. Yau's famous result in 1999.
 
-For Schrodinger equation, $i\psi_t = H\psi$, where $H = H_0 + \lambda V$, $H_0 = -\frac{1}{2}\Delta$. Formally, we have Dyson series
+For Schroedinger equation, $i\psi_t = H\psi$, where $H = H_0 + \lambda V$, $H_0 = -\frac{1}{2}\Delta$. Formally, we have Dyson series
 
 $$\psi_t = e^{-itH}\psi_0 = \sum_{n=0}^{N-1} \psi_n(t) + \Psi_N(t)$$
 where $V$ is spatially variable,

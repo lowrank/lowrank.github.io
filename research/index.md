@@ -13,8 +13,16 @@ title: Research
 
 - *An implicit boundary integral method for computing electric potential of macromolecules in solvent* (with K.Ren and R.Tsai), 2017
 
-## Activities
+- *A hybrid adaptive phase space method for reflection traveltime tomography* (with H.Zhao), submitted, 2018
 
+- *A hybrid inverse problem in the fluorescence ultrasound
+modulated optical tomography in diffusive regime* (with W. Li and Y. Yang), in preparation, 2018
+
+
+## Activities
+- 2018 - 2019
+  - March 19 - March 23
+      - UT Austin visit.
 - 2017 - 2018
   - Oct 5, 2017
       - ICERM seminar, numerical algorithms for radiative transfer
