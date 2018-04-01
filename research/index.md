@@ -9,7 +9,7 @@ title: Research
 
 - *Reconstruction of acoustic and optical properties in PAT/TAT with data from multiple illuminations* (with K.Ren), Preprint, 2016
 
-- *Recovering point soures in unknown inhomogeneous environments* (with K.Ren), In preparation, 2016
+- *Recovering point soures in unknown inhomogeneous environments* (with K.Ren), Preprint, 2016
 
 - *An implicit boundary integral method for computing electric potential of macromolecules in solvent* (with K.Ren and R.Tsai), 2017
 
