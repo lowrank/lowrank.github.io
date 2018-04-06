@@ -5,8 +5,11 @@ title:  Diffusion Acceleration
 ---
 
 It is widely accepted that diffusion model is the limiting model for transport equation, we omit numerous references here. The isotropic case says
+
 $$v\cdot \nabla u + \sigma_t u  =\sigma_s U + q.$$
+
 The approximating diffusion is (with Knudsen parameter equals 1),
+
 $$-\nabla \cdot \frac{1}{\sigma_t} \nabla U + \sigma_a U = q.$$
 
 The quick way to prove this is from the integral formulation,
