@@ -13,6 +13,7 @@ The approximating diffusion is (with Knudsen parameter equals 1),
 $$-\nabla \cdot \frac{1}{\sigma_t} \nabla U + \sigma_a U = q.$$
 
 The quick way to prove this is from the integral formulation,
+
 $$U(x) = \int_{D}\frac{E(x, y)}{|x-y|} (\sigma_s(y) U(y) + q(y)) dy.$$
 
 We expand $\sigma_t$, $\sigma_s$ and $U$ locally at $x$ as Taylor expansion, then for any interior point $x\in D$, the integral part can be truncated at second order term, which will give a $U$ term and a $\Delta U$ term.
