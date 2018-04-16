@@ -3,7 +3,7 @@ layout: post
 title: Thoughts on Fast Multipole III
 disqus: 'y'
 ---
-Continue with last post. Consider the pseudo-differential elliptic operator $P = \sum_{\| \alpha \|\le 2m} c_{\alpha}(x) D^{\alpha}$, if we have $P u(x) = f(x)$, with Dirichlet boundary condition $u^{\alpha} = 0$ for $|\alpha|\le m-1$.
+Continue with last post. Consider the pseudo-differential elliptic operator $P = \sum_{\| \alpha \|\le 2m} c_{\alpha}(x) D^{\alpha}$, if we have $P u(x) = f(x)$, with Dirichlet boundary condition $u^{\alpha} = 0$ for $\|\alpha\|\le m-1$.
 
 $$\int_{\Omega}(P^{\ast}v(x, y))u(x) -  (Pu(x)) v(x, y) dx   = \sum_{\beta}\int_{\partial\Omega}\psi_{\beta}(x) v^{\beta}(x, y) dx$$
 
