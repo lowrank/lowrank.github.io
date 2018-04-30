@@ -21,9 +21,9 @@ modulated optical tomography in diffusive regime* (with W. Li and Y. Yang), in p
 
 ## Activities
 - 2018 - 2019
-  - April 28
+  - April 28, 2018
       - SOCAMS, Inverse problem of fluorescent ultrasound modulated optical tomography@UCSB
-  - March 19 - March 23
+  - March 19 - March 23, 2018
       - UT Austin visit.
 - 2017 - 2018
   - Oct 5, 2017
