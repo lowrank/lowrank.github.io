@@ -2,6 +2,11 @@
 layout: page
 title: Teach
 ---
+## University of California, Irvine
+- [2018 S(2B)  CALCULUS](/teach/courses/2018S)
+- [2018 W(2B)  CALCULUS](/teach/courses/2018W)
+
+## University of Texas, Austin
 - [2017 S(M387D) NUMRCL ANLY: DIFFERNTL EQUATNS](/teach/courses/2017S)
 - [2016 F(M427L) ADVANCED CALCULUS FOR APPLICATIONS II](/teach/courses/2016F)
 - [2015 F(M408C) DIFFERENTIAL AND INTEGRAL CALCULUS](/teach/courses/2015F)

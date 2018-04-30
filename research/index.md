@@ -21,17 +21,19 @@ modulated optical tomography in diffusive regime* (with W. Li and Y. Yang), in p
 
 ## Activities
 - 2018 - 2019
+  - April 28
+      - SOCAMS, Inverse problem of fluorescent ultrasound modulated optical tomography@UCSB
   - March 19 - March 23
       - UT Austin visit.
 - 2017 - 2018
   - Oct 5, 2017
-      - ICERM seminar, numerical algorithms for radiative transfer
+      - ICERM seminar, numerical algorithms for radiative transfer@Brown
   - Oct 2 - Oct 3, 2017
-      - Houston Imaging Sciences Symposium, one-step reconstruction in PAT
+      - Houston Imaging Sciences Symposium, one-step reconstruction in PAT@Houston
   - Sept 21 - Sept 23, 2017
-      - Texas Applied Mathematics and Engineering Symposium, A fast preconditioner for radiative transfer.
+      - Texas Applied Mathematics and Engineering Symposium, A fast preconditioner for radiative transfer@Austin
   - Sept 6 - Dec 8, 2017
-      - ICERM, Mathematical and Computational Challenges in Radar and Seismic Reconstruction
+      - ICERM, Mathematical and Computational Challenges in Radar and Seismic Reconstruction@Brown
   - July 18 - July 22, 2017
       - Stanford University visit.
   - June 9 - June 10, 2017
