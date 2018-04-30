@@ -16,8 +16,9 @@ title: Research
 - *A hybrid adaptive phase space method for reflection traveltime tomography* (with H.Zhao), submitted, 2018
 
 - *A hybrid inverse problem in the fluorescence ultrasound
-modulated optical tomography in diffusive regime* (with W. Li and Y. Yang), in preparation, 2018
+modulated optical tomography in diffusive regime* (with W. Li and Y. Yang), submitted, 2018
 
+- *Intrinsic complexity and scaling laws: from random fields to random vectors* (with J. Bryson, H. Zhao), in preparation, 2018
 
 ## Activities
 - 2018 - 2019
