@@ -9,4 +9,4 @@ I used to use ``Eigen`` a lot, and shift to my own linear algebra implementation
 
 Another benefit is: there is easy way to move into MATLAB with mex interface if necessary.
 
-[TO BE CONTINUED]
+Some updates: Later I found there are some drawbacks in the generic implementations of ``armadillo`` due to the inefficiency, such as the random generator. Replacing those blocks with some other routines could be helpful.
