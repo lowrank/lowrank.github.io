@@ -18,10 +18,16 @@ title: Research
 - *A hybrid inverse problem in the fluorescence ultrasound
 modulated optical tomography in diffusive regime* (with W. Li and Y. Yang), submitted, 2018
 
-- *Intrinsic complexity and scaling laws: from random fields to random vectors* (with J. Bryson, H. Zhao), in preparation, 2018
+- *Intrinsic complexity and scaling laws: from random fields to random vectors* (with J. Bryson, H. Zhao), submitted, 2018
+
+- *Instability of the inverse problem for the stationary radiative transport equation* (with H. Zhao), in preparation, 2018
 
 ## Activities
 - 2018 - 2019
+  - July 2nd --
+      - Visiting researcher@UT Austin
+  - June 25 - 29, 2018
+      - MPI 2018@Harvey Mudd College
   - June 12 - 19, 2018
       - MSU visit.
   - April 28, 2018
