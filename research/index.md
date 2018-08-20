@@ -24,7 +24,7 @@ modulated optical tomography in diffusive regime* (with W. Li and Y. Yang), subm
 
 ## Activities
 - 2018 - 2019
-  - July 2nd --
+  - July 2nd -- August 23, 2018
       - Visiting researcher@UT Austin
   - June 25 - 29, 2018
       - MPI 2018@Harvey Mudd College
