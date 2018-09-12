@@ -20,7 +20,11 @@ modulated optical tomography in diffusive regime* (with W. Li and Y. Yang), subm
 
 - *Intrinsic complexity and scaling laws: from random fields to random vectors* (with J. Bryson, H. Zhao), submitted, 2018
 
-- *Instability of the inverse problem for the stationary radiative transport equation* (with H. Zhao), in preparation, 2018
+- *Instability of the inverse problem for the stationary radiative transport equation* (with H. Zhao), submitted, 2018
+
+- *An inverse transport problem in the fluorescence ultrasound modulated optical tomography* (with W. Li and Y. Yang), in preparation, 2018
+
+
 
 ## Activities
 - 2018 - 2019
