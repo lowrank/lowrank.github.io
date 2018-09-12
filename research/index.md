@@ -37,11 +37,11 @@ modulated optical tomography in diffusive regime* (with W. Li and Y. Yang), subm
   - June 25 - 29, 2018
       - MPI 2018@Harvey Mudd College
   - June 12 - 19, 2018
-      - MSU visit.
+      - visiting @ MSU .
   - April 28, 2018
       - SOCAMS, Inverse problem of fluorescent ultrasound modulated optical tomography@UCSB
   - March 19 - March 23, 2018
-      - UT Austin visit.
+      - visiting @ UT Austin .
 - 2017 - 2018
   - Oct 5, 2017
       - ICERM seminar, numerical algorithms for radiative transfer@Brown
