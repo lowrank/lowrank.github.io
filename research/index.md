@@ -28,6 +28,10 @@ modulated optical tomography in diffusive regime* (with W. Li and Y. Yang), subm
 
 ## Activities
 - 2018 - 2019
+  - October 20 -- October 21, 2018,
+      - AMS section meeting @ University of Michgan.
+  - October 5 -- October 7, 2018
+      - 4th Annual Meeting SIAM central states section @ Oklahoma University.
   - July 2nd -- August 23, 2018
       - Visiting researcher@UT Austin
   - June 25 - 29, 2018
