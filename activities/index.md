@@ -5,6 +5,8 @@ title: Activities
 
 ## Activities
 - 2018 - 2019
+  - Nov 9, 2018
+      - Applied math seminar @ University of Wisconsin, Madison
   - October 20 -- October 21, 2018,
       - AMS section meeting @ University of Michgan.
   - October 5 -- October 7, 2018
@@ -14,7 +16,7 @@ title: Activities
   - June 25 - 29, 2018
       - MPI 2018@Harvey Mudd College
   - June 12 - 19, 2018
-      - visiting @ MSU .
+      - visiting @ MSU 
   - April 28, 2018
       - SOCAMS, Inverse problem of fluorescent ultrasound modulated optical tomography@UCSB
   - March 19 - March 23, 2018
