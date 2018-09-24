@@ -9,8 +9,10 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 links:
   - name:         CV
     url:          /cv
-  - name:         Research
-    url:          /research
+  - name:         Publications
+    url:          /publications
+  - name:         Activities
+    url:          /activities
   - name:         Teach
     url:          /teach
   - name:         More
