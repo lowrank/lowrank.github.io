@@ -6,11 +6,11 @@ title: Activities
 ## Activities
 - 2018 - 2019
   - Nov 9, 2018
-      - Applied math seminar @ University of Wisconsin, Madison
+      - Applied math seminar, instability of inverse radiative trasfer @ University of Wisconsin, Madison
   - October 20 -- October 21, 2018
-      - AMS section meeting @ University of Michgan.
+      - AMS section meeting, A hybrid method for reflection traveltime tomography @ University of Michgan.
   - October 5 -- October 7, 2018
-      - 4th Annual Meeting SIAM central states section @ Oklahoma University.
+      - 4th Annual Meeting SIAM central states section, A fast preconditioner for radiative transfer @ Oklahoma University.
   - July 2nd -- August 23, 2018
       - Visiting researcher@UT Austin
   - June 25 - 29, 2018
