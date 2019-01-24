@@ -9,8 +9,6 @@ title: Publications
 
 - *Reconstruction of acoustic and optical properties in PAT/TAT with data from multiple illuminations* (with K. Ren), Preprint, 2016
 
-- *Recovering point sources in unknown inhomogeneous environments* (with K. Ren), Preprint, 2016
-
 - *An implicit boundary integral method for computing electric potential of macromolecules in solvent* (with K. Ren and R. Tsai), 2017
 
 - *A hybrid adaptive phase space method for reflection traveltime tomography* (with H. Zhao), submitted, 2018
@@ -23,3 +21,5 @@ modulated optical tomography in diffusive regime* (with W. Li and Y. Yang), subm
 - *Instability of the inverse problem for the stationary radiative transport equation* (with H. Zhao), submitted, 2018
 
 - *An inverse transport problem in the fluorescence ultrasound modulated optical tomography* (with W. Li and Y. Yang), in preparation, 2018
+
+- *Imaging point sources in heterogeneous (with K. Ren), Submitted, 2018.
