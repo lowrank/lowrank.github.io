@@ -22,4 +22,4 @@ modulated optical tomography in diffusive regime* (with W. Li and Y. Yang), subm
 
 - *An inverse transport problem in the fluorescence ultrasound modulated optical tomography* (with W. Li and Y. Yang), in preparation, 2018
 
-- *Imaging point sources in heterogeneous (with K. Ren), Submitted, 2018.
+- *Imaging point sources in heterogeneous* (with K. Ren), Submitted, 2019.
