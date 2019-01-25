@@ -4,6 +4,9 @@ title: Activities
 ---
 
 ## Activities
+- 2019 - 2020
+  - Jan 17, 2019
+      - One-step reconstruction in QPAT@JMM, Baltimore.
 - 2018 - 2019
   - Nov 9, 2018
       - Applied math seminar, instability of inverse radiative trasfer @ University of Wisconsin, Madison
