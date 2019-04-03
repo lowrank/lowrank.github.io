@@ -5,6 +5,8 @@ title: Activities
 
 ## Activities
 - 2019 - 2020
+  - April 28 - May 3, 2019
+      - IMA workshop on Mathematics in Optical Imaging
   - Jan 17, 2019
       - One-step reconstruction in QPAT@JMM, Baltimore.
 - 2018 - 2019
