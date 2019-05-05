@@ -11,7 +11,7 @@ title: Activities
       - One-step reconstruction in QPAT@JMM, Baltimore.
 - 2018 - 2019
   - Nov 9, 2018
-      - Applied math seminar, instability of inverse radiative trasfer @ University of Wisconsin, Madison
+      - Applied math seminar, instability of inverse radiative transfer @ University of Wisconsin, Madison
   - October 20 -- October 21, 2018
       - AMS section meeting, A hybrid method for reflection traveltime tomography @ University of Michgan.
   - October 5 -- October 7, 2018
