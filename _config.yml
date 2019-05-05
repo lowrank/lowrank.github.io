@@ -20,7 +20,7 @@ links:
   - name:         Blog
     url:          /blog
   - name:         Email
-    url:          mailto:yzhong@utexas.edu
+    url:          mailto:yiminz@uci.edu
     external:     true
 
 highlighter:      rouge
