@@ -15,7 +15,7 @@ $$P(x, D) u =  \sum_{|\alpha| \le 2m} c_{\alpha} D^{\alpha} u = 0$$
 
 we can see that for this equation, classical results could apply easily, and we consider the weak formulation, if vector-function $$\tilde{g} = ( g_{\alpha} )_{ |\alpha| \le  m-1}$$,  which satisfies
 $$\|\tilde{g}\| = \sum_{\alpha} \|g_{\alpha}\| $$
-is finite, we say $\tilde{g} \in W^{m-1}(\partial\Omega)$. We are looking for $u\in W^{2m}(\Omega)\cap W^{m-1}(\overline{\Omega})$ such that  $Pu = 0$ and $D^{\alpha} u|_{\partial\Omega} = g_{\alpha}$.
+is finite, we say $\tilde{g} \in W^{m-1}(\partial\Omega)$. We are looking for $u\in W^{2m}(\Omega)\cap W^{m-1}(\overline{\Omega})$ such that  $Pu = 0$ and $$D^{\alpha} u|_{\partial\Omega} = g_{\alpha}$$.
 
 >For any bounded domain $\Omega$, there is unique weak solution to the Dirichlet problem $P u = 0$. When boundary is smooth enough, the weak solution is also classical solution.
 
