@@ -62,7 +62,7 @@ To study the stability of the roots $$t_j$$, one just have to find out the condi
 
 ### Single Frequency Measurements
 
-Instead of taking multiple frequencies, when only one fixed frequency $$k$$, the point sources can be determined by partial data or full data from the Dirichlet to Neumann map on the boundary or far field data. Algebraic method creates a polynomial 
+Instead of taking multiple frequencies, when only one fixed frequency $$k$$, the point sources can be determined by partial data or full data from certain Cauchy data on the boundary or far field data. Algebraic method creates a polynomial 
 $$
 P(x,y,z) = e^{i2\pi k z}\prod_{j=1}^S (x+iy - (x_j + iy_j))
 $$
