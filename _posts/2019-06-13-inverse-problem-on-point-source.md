@@ -56,9 +56,11 @@ $$
 $$
 \hat{u}_k  = \sum_{j=1}^S s_j e^{-i2\pi k t_j} + \eta_k
 $$
-To study the stability of the roots $$t_j$$, one just have to find out the condition number of the related Fourier matrix. 
+To study the stability of the roots $$t_j$$, one just have to find out the condition number of the related Fourier matrix.  The same approach also works for diffusion equation with $$k\to ik$$. However the condition number will be greatly impacted due to the diffusion nature.
 
- 
+ #### Practical Approaches
+
+
 
 ### Single Frequency Measurements
 
@@ -66,7 +68,7 @@ Instead of taking multiple frequencies, when only one fixed frequency $$k$$, the
 $$
 P(x,y,z) = e^{i2\pi k z}\prod_{j=1}^S (x+iy - (x_j + iy_j))
 $$
-Such polynomial is a solution to the Helmholtz equation, the adjoint solution method can easily transfer the Dirichlet to Neumann data to the boundary integral.  Partial data case is much more complicated if one wants to deal with the algebraic approach, however the uniqueness is much easier without noises. 
+Such polynomial is a solution to the Helmholtz equation, the adjoint solution method can easily transfer the Cauchy data to the boundary integral. The uniqueness is from the unique continuation by covering the point sources (poles) with small disks. Partial data can still work, but the numerical reconstruction would be much more difficult. 
 
 
 
